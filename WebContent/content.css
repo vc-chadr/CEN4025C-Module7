@@ -1,0 +1,36 @@
+
+
+.todolist {
+  border-collapse: collapse;
+  width: 80%;
+  border: 1px solid black;
+}
+
+.todolist th {
+  background-color: #2244ff;
+  color: white;
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.todolist td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.todolist tr:nth-child(even) {background-color: #f2f2f2;}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  border: 1px solid black;
+}
+
+
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
